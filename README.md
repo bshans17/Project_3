@@ -1,10 +1,10 @@
-TEAM 3 - PROJECT 3
+# TEAM 3 - PROJECT 3
 
-“MyFarm.org” powered by SegesCoin
+## “MyFarm.org” powered by SegesCoin
 
 ![image](https://user-images.githubusercontent.com/68345971/111036187-05eef900-83ec-11eb-8164-046d471c8326.png)
 
-Introduction
+## Introduction
 Land, and in particular farmland, is one of the oldest investment asset classes. It has been and
 continues to be an important source of wealth. Interestingly enough]gh, the largest farmland
 owner in the US today is Bill Gates with about 242,000 acres spread across 19 states.
@@ -30,7 +30,7 @@ When you consider that more than 100 million Americans hail from the millennial 
 gen Z cohort alone that’s a huge number of investors putting their money where their
 values are.
 
-Project Description
+## Project Description
 
 We are creating a company called MyFarm (website www.MyFarm.org) that will allow small
 investors (targeting $5 to $25k initial investments) to participate in farmland investing. We will
@@ -48,7 +48,7 @@ Given the time constraint it is outside the scope of this project totoi study al
 regulatory and legal requirements to do all the above but it’s clearly i\mportant to understand
 them.
 
-Technology to be used
+## Technology to be used
 
 The following programs as required for Project 3 will be utilized:
 - Blockchain (Remix, Ganache, Metamax, MyCoin)
@@ -57,7 +57,7 @@ The following programs as required for Project 3 will be utilized:
 We’ll also be utilizing other programs/websites from third party vendors:
 - Speechelo ( www.speechelo.com )
 
-Workflow / Team assignments:
+## Workflow / Team assignments:
 While every person in the team will be involved in all aspects of the project, we have divided the
 workflow as follow:
 
@@ -69,27 +69,27 @@ Elias Video production/Smart Contracts design
 
 Pablo Google doc/Presentation/Idea coordination
 
-Smart Contract Design
+## Smart Contract Design
 - Token issuance/creation (ERC20mintable)
 - Registry & Verification
 - Refundable
 - Revenue distribution
 - Market Creation
 
-Machine learning
+## Machine learning
 - Scrap API/Real Estate Websites for offers of farmland plots with the US that comply
 with the desired parameters (see below Land Acquisition Parameters)
 - Plot land holdings and targeted land holdings on a map
 - Create a land valuation model for buy/sell recommendations
 
-Token Sale Parameters
+## Token Sale Parameters
 - Crowdfunding aim to raise $20mm
 - Min initial investment $5,000
 - Max initial investment $25,000
 - 2 year limit to invest/acquire land or money is returned (money raised to be kept in a
 separate account in 3m US Treasury bills if rates positive, cash otherwise)
 
-Farmland Acquisition Parameters
+## Farmland Acquisition Parameters
 - Option 1: buy and lease back
 - Option 2: partial ownership (at least 25%) subject to production conditions
 - Small plots (no more than 25 acres per plot)
