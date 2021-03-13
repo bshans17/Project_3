@@ -1,6 +1,4 @@
-# TEAM 3 - PROJECT 3
-
-## “MyFarm.org” powered by SegesCoin
+# “MyFarm.org” powered by SegesCoin
 
 ![image](https://user-images.githubusercontent.com/68345971/111036187-05eef900-83ec-11eb-8164-046d471c8326.png)
 
