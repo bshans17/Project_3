@@ -70,7 +70,7 @@ Elias Video production/Smart Contracts design
 Pablo Google doc/Presentation/Idea coordination
 
 Smart Contract Design
-- Token issuance/creation(ERC20mintable)
+- Token issuance/creation (ERC20mintable)
 - Registry & Verification
 - Refundable
 - Revenue distribution
