@@ -2,7 +2,7 @@ TEAM 3 - PROJECT 3
 
 “MyFarm.org” powered by SegesCoin
 
-![image](https://user-images.githubusercontent.com/68345971/111036148-c0cac700-83eb-11eb-8179-e41e393159bb.png)
+![image](https://user-images.githubusercontent.com/68345971/111036187-05eef900-83ec-11eb-8164-046d471c8326.png)
 
 Introduction
 Land, and in particular farmland, is one of the oldest investment asset classes. It has been and
