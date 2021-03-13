@@ -1,7 +1,8 @@
-#TEAM 3 - PROJECT 3
-##“MyFarm.org” powered by SegesCoin
-##Introduction
-###Land, and in particular farmland, is one of the oldest investment asset classes. It has been and
+TEAM 3 - PROJECT 3
+
+“MyFarm.org” powered by SegesCoin
+Introduction
+Land, and in particular farmland, is one of the oldest investment asset classes. It has been and
 continues to be an important source of wealth. Interestingly enough]gh, the largest farmland
 owner in the US today is Bill Gates with about 242,000 acres spread across 19 states.
 Farmland investing requires very large resources and expertise, which is not easily accessible
