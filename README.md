@@ -70,31 +70,31 @@ Elias Video production/Smart Contracts design
 Pablo Google doc/Presentation/Idea coordination
 
 Smart Contract Design
-● Token issuance/creation(ERC20mintable)
-● Registry & Verification
-● Refundable
-● Revenue distribution
-● Market Creation
+- Token issuance/creation(ERC20mintable)
+- Registry & Verification
+- Refundable
+- Revenue distribution
+- Market Creation
 
 Machine learning
-● Scrap API/Real Estate Websites for offers of farmland plots with the US that comply
+- Scrap API/Real Estate Websites for offers of farmland plots with the US that comply
 with the desired parameters (see below Land Acquisition Parameters)
-● Plot land holdings and targeted land holdings on a map
-● Create a land valuation model for buy/sell recommendations
+- Plot land holdings and targeted land holdings on a map
+- Create a land valuation model for buy/sell recommendations
 
 Token Sale Parameters
-● Crowdfunding aim to raise $20mm
-● Min initial investment $5,000
-● Max initial investment $25,000
-● 2 year limit to invest/acquire land or money is returned (money raised to be kept in a
+- Crowdfunding aim to raise $20mm
+- Min initial investment $5,000
+- Max initial investment $25,000
+- 2 year limit to invest/acquire land or money is returned (money raised to be kept in a
 separate account in 3m US Treasury bills if rates positive, cash otherwise)
 
 Farmland Acquisition Parameters
-● Option 1: buy and lease back
-● Option 2: partial ownership (at least 25%) subject to production conditions
-● Small plots (no more than 25 acres per plot)
-● Closer to large urban centers
-● Geographically diversify within the US
-● Agriculturally diversified (25% livestock, 25% fish farms, 50% other)
-● Production should comply with Leading Harvest standards ( www.leadingharvest.org )
-● Use of satellite technology from 3rd party vendors (https://www.beriqo.com)
+- Option 1: buy and lease back
+- Option 2: partial ownership (at least 25%) subject to production conditions
+- Small plots (no more than 25 acres per plot)
+- Closer to large urban centers
+- Geographically diversify within the US
+- Agriculturally diversified (25% livestock, 25% fish farms, 50% other)
+- Production should comply with Leading Harvest standards ( www.leadingharvest.org )
+- Use of satellite technology from 3rd party vendors (https://www.beriqo.com)
