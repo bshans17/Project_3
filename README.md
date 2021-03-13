@@ -5,6 +5,7 @@ Introduction
 Land, and in particular farmland, is one of the oldest investment asset classes. It has been and
 continues to be an important source of wealth. Interestingly enough]gh, the largest farmland
 owner in the US today is Bill Gates with about 242,000 acres spread across 19 states.
+
 Farmland investing requires very large resources and expertise, which is not easily accessible
 for the small or young investor.. There are some forms of land ownership opportunities via
 ETFs, REITSs and firms that sell participation in land portfolios but we believe that by using
@@ -14,6 +15,9 @@ We also believe our investments not only will prove to be profitable but will al
 strong positive social and environmental impact, which is a highly coveted investment feature
 particularly for investors coming from the Millenial and younger generations as many recent
 studies have shown.
+
+![image](https://user-images.githubusercontent.com/68345971/111035815-1f8f4100-83ea-11eb-9ba1-606b6228daa5.png)
+
 Our farms and farmers will be required to join organizations like Leading Harvest
 (www.leadingharvest.org) and will be asked to maintain strict sustainable and organic
 agricultural standards, thus benefiting us all by protecting the environment while
